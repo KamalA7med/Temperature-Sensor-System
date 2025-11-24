@@ -1,0 +1,55 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+build/
+[Bb]uild/
+out/
+
+# Visual Studio cache and settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+*.cache
+*.dbmdl
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Backup & temp files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# System files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# DotNet CLI artifacts
+.project
+global.json
+*.lock.json
+
+# OS-specific
+.DS_Store
+
+# Publish output
+publish/
